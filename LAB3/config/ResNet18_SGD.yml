@@ -1,0 +1,11 @@
+device: cuda
+epoch: 40
+save_path: C:\Users\Lai\Documents\GitHub\DLlab\lab3\saved_models\
+result_path: C:\Users\Lai\Documents\GitHub\DLlab\lab3\result\
+batch_size: 32
+model: ResNet18
+optimizer: SGD
+lr: 0.001
+momentum: 0.9
+rate: 0.8
+data_dir: C:\Users\Lai\Documents\GitHub\DLlab\lab3\plant-seedlings-classification\

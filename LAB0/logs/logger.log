@@ -1,0 +1,11 @@
+[2023-04-19 19:41:20,615][BERT_train.py][line:61][INFO] start training!
+[2023-04-19 20:27:16,708][BERT_train.py][line:76][INFO] Epoch:[0/10]	 loss=0.44557	 acc=0.738
+[2023-04-19 21:12:28,134][BERT_train.py][line:76][INFO] Epoch:[1/10]	 loss=0.43415	 acc=0.767
+[2023-04-19 21:57:46,721][BERT_train.py][line:76][INFO] Epoch:[2/10]	 loss=0.13299	 acc=0.781
+[2023-04-19 22:43:05,965][BERT_train.py][line:76][INFO] Epoch:[3/10]	 loss=0.04342	 acc=0.782
+[2023-04-19 23:28:27,174][BERT_train.py][line:76][INFO] Epoch:[4/10]	 loss=0.04868	 acc=0.792
+[2023-04-20 00:13:53,123][BERT_train.py][line:76][INFO] Epoch:[5/10]	 loss=0.02707	 acc=0.795
+[2023-04-20 00:59:18,902][BERT_train.py][line:76][INFO] Epoch:[6/10]	 loss=0.02762	 acc=0.792
+[2023-04-20 01:44:28,901][BERT_train.py][line:76][INFO] Epoch:[7/10]	 loss=0.03259	 acc=0.777
+[2023-04-20 02:29:48,449][BERT_train.py][line:76][INFO] Epoch:[8/10]	 loss=0.02659	 acc=0.793
+[2023-04-20 03:15:17,057][BERT_train.py][line:76][INFO] Epoch:[9/10]	 loss=0.02423	 acc=0.786
